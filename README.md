@@ -1,95 +1,99 @@
-<!-- Animated Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Sarthak+👋;Full+Stack+Web+Developer;AI+%7C+ML+Enthusiast;React+%7C+Node.js+%7C+Flask+%7C+Python;Welcome+to+my+GitHub+Profile!" />
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SARTHAKSSS-MAKER/SARTHAKSSS-MAKER/main/banner.png" alt="Sarthak Banner" width="100%" />
+</p>
+
+# About Me  
+I am a **Full Stack Web Developer** and **Machine Learning Enthusiast**, skilled in  
+**React, JavaScript, Python, and Node.js**.  
+I love building real-world applications and learning modern technologies.
+
+#  Tech Stack (Neon Matrix)
+
+## ▶️ Frontend
+![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+## ▶️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+
+
+## ▶️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=005C84)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+
+
+## ▶️ AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=D00000)
 
 ---
 
-## 🌟 About Me  
-💻 Full Stack Web Developer (Frontend + Backend)  
-🤖 ML Enthusiast    
-🚀 Passionate about Python, JavaScript, React, Node.js  
+#  Featured Projects (Neon Cards)
 
----
-
-#  Tech Stack  
-
-###  **Frontend**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-###  **Backend**
-![NodeJS](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-###  **Database**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-###  **Machine Learning / AI**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Python](https://img.shields.io/badge/CNN-3776AB?style=for-the-badge)
-
----
-
-#  Featured Projects (Stylish Version)
-
-##  **NutriTrack – ML + Full Stack App**
-**Tech:** React, Node.js (Express), Python, TensorFlow, Keras  
+## 🔷 NutriTrack — ML + Full Stack  
+**Tech:** React • Node.js • TensorFlow • Keras • Python  
 **ML:** CNN Image Recognition  
- *A smart nutrition detection system that identifies food items and provides nutrition data.*
+Smart food recognition system with deep learning.
 
 ---
 
-##  **Canteen Management System**
-**Tech:** HTML, CSS, JavaScript, Python Flask, MySQL  
- *A full canteen ordering platform with login, cart, order tracking & admin panel.*
+## 🔷 Canteen Management System  
+**Tech:** HTML • CSS • JavaScript • Flask • MySQL  
+Full digital canteen platform with authentication, cart, orders & admin panel.
 
 
-## 🎮 **JavaScript Games Collection**
-**Tech:** JavaScript, HTML, CSS  
-Games built by me:  
--  **Flappy Bird**  
--  **Tic Tac Toe**
+## 🔷 JavaScript Games Collection  
+**Tech:** JavaScript • HTML • CSS  
+- Flappy Bird  
+- Tic Tac Toe  
 
--  
-# 📊 GitHub Analytics  
+# 📘 DSA & LeetCode  
 
-###  **Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=SARTHAKSSS-MAKER&show_icons=true&theme=tokyonight" height="165">
+### DSA Concepts  
+Arrays • Strings • Linked Lists • Stacks • Queues • Trees • BST • Graphs • BFS/DFS • DP • Sliding Window  
 
-###  **Languages**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAKSSS-MAKER&layout=compact&theme=tokyonight" height="165">
+### LeetCode  
+Improving logic, speed and problem-solving through regular practice.
 
-###  **Streak**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SARTHAKSSS-MAKER&theme=tokyonight" height="165">
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)
 
 ---
 
-#  Extras  
-![Profile Views](https://komarev.com/ghpvc/?username=SARTHAKSSS-MAKER&color=blue&style=flat-square)
+# 📊 GitHub Analytics (Neon Mode)
+
+### GitHub Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=SARTHAKSSS-MAKER&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+### Top Languages  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAKSSS-MAKER&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+### Contribution Streak  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SARTHAKSSS-MAKER&theme=tokyonight&hide_border=true" height="165"/>
 
 ---
 
-# 🌐 Connect With Me  
-👉 Instagram  
-👉 LinkedIn (coming soon…)
+#  Contribution Snake Animation  
+![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-<p align="center"><b> Thanks for visiting! Stay awesome </b></p>
+# 👁 Profile Views  
+![Views](https://komarev.com/ghpvc/?username=SARTHAKSSS-MAKER&color=brightgreen&style=flat-square)
 
 ---
 
-## 🌐 Connect with Me  
-Instagram | LinkedIn coming soon...## Hi there 
+# 🔗 Connect With Me  
+Instagram  
+LinkedIn (coming soon…)
 
-<!--
-**SARTHAKSSS-MAKER/SARTHAKSSS-MAKER** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Have+a+productive+day+ahead." />
+</p>
