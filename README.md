@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SARTHAKSSS-MAKER/SARTHAKSSS-MAKER/main/banner.png" alt="Sarthak Banner" width="100%" />
-</p>
+
 
 # About Me  
 I am a **Full Stack Web Developer** and **Machine Learning Enthusiast**, skilled in  
