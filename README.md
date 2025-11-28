@@ -2,10 +2,10 @@
 
 # About Me  
 I am a **Full Stack Web Developer** and **Machine Learning Enthusiast**, skilled in  
-**React, JavaScript, Python, and Node.js**.  
+**HTML,CSS,JavaScript,React,Node.js,C,Python**.  
 I love building real-world applications and learning modern technologies.
 
-#  Tech Stack (Neon Matrix)
+#  Tech Stack
 
 ## ▶️ Frontend
 ![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -32,7 +32,7 @@ I love building real-world applications and learning modern technologies.
 
 ---
 
-#  Featured Projects (Neon Cards)
+#  Featured Projects 
 
 ## 🔷 NutriTrack — ML + Full Stack  
 **Tech:** React • Node.js • TensorFlow • Keras • Python  
@@ -63,7 +63,7 @@ Improving logic, speed and problem-solving through regular practice.
 
 ---
 
-# 📊 GitHub Analytics (Neon Mode)
+# 📊 GitHub Analytics 
 
 ### GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=SARTHAKSSS-MAKER&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
