@@ -76,11 +76,6 @@ Improving logic, speed and problem-solving through regular practice.
 
 ---
 
-#  Contribution Snake Animation  
-![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
----
-
 # 👁 Profile Views  
 ![Views](https://komarev.com/ghpvc/?username=SARTHAKSSS-MAKER&color=brightgreen&style=flat-square)
 
