@@ -76,7 +76,7 @@ Improving logic, speed and problem-solving through regular practice.
 
 # 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SARTHAKSSS-MAKER&theme=github-compact)
+[![Sarthak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SARTHAKSSS-MAKER&theme=github)](https://github.com/SARTHAKSSS-MAKER)
 
 
 
