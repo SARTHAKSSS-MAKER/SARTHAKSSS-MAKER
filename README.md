@@ -75,6 +75,11 @@ Improving logic, speed and problem-solving through regular practice.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SARTHAKSSS-MAKER&theme=tokyonight&hide_border=true" height="165"/>
 
 ---
+# 📈 Contribution Graph
+
+[![Sarthak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SARTHAKSSS-MAKER&theme=github)](https://github.com/SARTHAKSSS-MAKER)
+
+
 
 # 👁 Profile Views  
 ![Views](https://komarev.com/ghpvc/?username=SARTHAKSSS-MAKER&color=brightgreen&style=flat-square)
