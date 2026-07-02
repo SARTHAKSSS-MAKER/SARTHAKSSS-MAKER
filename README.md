@@ -85,12 +85,6 @@ Improving logic, speed and problem-solving through regular practice.
 
 ---
 
-# 🔗 Connect With Me  
-Instagram  
-LinkedIn (coming soon…)
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Have+a+productive+day+ahead." />
 </p>
