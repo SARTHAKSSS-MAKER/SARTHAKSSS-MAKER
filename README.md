@@ -65,12 +65,6 @@ Improving logic, speed and problem-solving through regular practice.
 
 # 📊 GitHub Analytics 
 
-### GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=SARTHAKSSS-MAKER&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-### Top Languages  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAKSSS-MAKER&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
 ### Contribution Streak  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SARTHAKSSS-MAKER&theme=tokyonight&hide_border=true" height="165"/>
 
