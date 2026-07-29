@@ -30,7 +30,6 @@ I love building real-world applications and learning modern technologies.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=D00000)
 
----
 
 #  Featured Projects 
 
