@@ -55,9 +55,6 @@ Full digital canteen platform with authentication, cart, orders & admin panel.
 ### DSA Concepts  
 Arrays • Strings • Linked Lists • Stacks • Queues • Trees • BST • Graphs • BFS/DFS • DP • Sliding Window  
 
-### LeetCode  
-Improving logic, speed and problem-solving through regular practices.
-
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)
 
 ---
