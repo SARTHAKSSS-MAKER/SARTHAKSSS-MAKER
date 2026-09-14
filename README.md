@@ -1,124 +1,78 @@
-👋 About Me
+# About Me  
+I am a **Full Stack Web Developer** and **Machine Learning Enthusiast**, skilled in  
+**HTML,CSS,JavaScript,React,Node.js,C,Python,java**.  
+I love building real-world applications and learning modern technologies.
 
-I am a Full Stack Web Developer and Machine Learning Enthusiast passionate about building real-world applications and continuously improving my development and problem-solving skills.
+#  Tech Stack
 
-🎓 BE — Data Engineering
-💻 Full Stack Development • AI/ML • Data Engineering • DSA
-🚀 Currently learning Java + DSA and building practical projects.
+## ▶️ Frontend
+![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-⸻
 
-🛠️ Tech Stack
+## ▶️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 
-▶️ Frontend
 
-▶️ Backend
+## ▶️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=005C84)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 
-▶️ Databases
 
-▶️ AI / Machine Learning
+## ▶️ AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=D00000)
 
-▶️ Mobile
 
-▶️ Tools & Technologies
+#  Featured Projects 
 
-⸻
+## 🔷 NutriTrack — ML + Full Stack  
+**Tech:** React • Node.js • TensorFlow • Keras • Python  
+**ML:** CNN Image Recognition  
+Smart food recognition system with deep learning.
 
-🚀 Featured Projects
+---
 
-🔷 NEXRA — Financial Transaction Fraud Detection
+## 🔷 Canteen Management System  
+**Tech:** HTML • CSS • JavaScript • Flask • MySQL  
+Full digital canteen platform with authentication, cart, orders & admin panel.
 
-Tech: Python • Machine Learning • Data Analysis
 
-An ML-based fraud/risk classification project designed to identify potentially fraudulent financial transactions and assist in risk assessment.
+## 🔷 JavaScript Games Collection  
+**Tech:** JavaScript • HTML • CSS  
+- Flappy Bird  
+- Tic Tac Toe  
 
-⸻
+# 📘 DSA & LeetCode  
 
-🔷 NutriTrack — ML + Full Stack
+### DSA Concepts  
+Arrays • Strings • Linked Lists • Stacks • Queues • Trees • BST • Graphs • BFS/DFS • DP • Sliding Window  
 
-Tech: React • Node.js • TensorFlow • Keras • Python
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)
 
-ML: CNN Image Recognition
+---
 
-A smart nutrition application that uses deep learning for food image recognition and provides a foundation for intelligent nutrition tracking.
+# 📊 GitHub Analytics 
 
-⸻
+### Contribution Streak  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SARTHAKSSS-MAKER&theme=tokyonight&hide_border=true" height="165"/>
 
-🔷 Canteen Management System
+# 📈 Contribution Graph
 
-Tech: HTML • CSS • JavaScript • Flask • MySQL
+[![Sarthak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SARTHAKSSS-MAKER&theme=github)](https://github.com/SARTHAKSSS-MAKER)
 
-A full-stack digital canteen platform featuring:
 
-* 🔐 User Authentication
-* 🛒 Shopping Cart
-* 📦 Order Management
-* 👨‍💼 Admin Panel
-* 🗄️ MySQL Database
 
-⸻
+# 👁 Profile Views  
+![Views](https://komarev.com/ghpvc/?username=SARTHAKSSS-MAKER&color=brightgreen&style=flat-square)
 
-🔷 ASTROMOTION — 3D Space Experience
-
-Tech: React • Three.js • React Three Fiber • GSAP
-
-An interactive 3D space exploration website featuring a solar-system environment, animated planets, camera transitions and immersive motion effects.
-
-⸻
-
-🔷 JavaScript Games Collection
-
-Tech: HTML • CSS • JavaScript
-
-* 🎮 Flappy Bird
-* ❌⭕ Tic Tac Toe
-
-⸻
-
-📚 DSA & LeetCode
-
-Currently building my Data Structures & Algorithms foundation with Java and practicing problem solving alongside LeetCode.
-
-DSA Topics
-
-Arrays • Strings • Linked Lists • Stacks • Queues • Trees • BST • Graphs • BFS/DFS • Recursion • Sliding Window • Dynamic Programming
-
-⸻
-
-📊 GitHub Analytics
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SARTHAKSSS-MAKER&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAKSSS-MAKER&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-</p>
-
-🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SARTHAKSSS-MAKER&theme=tokyonight&hide_border=true" />
-</p>
-
-⸻
-
-📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SARTHAKSSS-MAKER&theme=tokyonight" />
-</p>
-
-⸻
-
-👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SARTHAKSSS-MAKER&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" />
-</p>
-
-⸻
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Keep+Building+%7C+Keep+Learning;Have+a+productive+day+ahead." />
-</p>
-<p align="center">
-  ⭐ If you like my projects, consider giving them a star!
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Have+a+productive+day+ahead." />
 </p>
