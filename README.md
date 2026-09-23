@@ -1,5 +1,5 @@
 # About Me  
-I am a **Full Stack Web Developer** and **Machine Learning Enthusiast**, skilled in  
+I am a **Python Full Stack Web Developer** and **Machine Learning Enthusiast**, skilled in  
 **HTML,CSS,JavaScript,React,Node.js,C,Python,java**.  
 I love building real-world applications and learning modern technologies.
 
